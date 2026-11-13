@@ -1,0 +1,8 @@
+title: Rust desde cero
+description: Apuntes de Rust para quien ya programa en C/C++ — teoría y práctica, del ownership a una CLI real
+theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
