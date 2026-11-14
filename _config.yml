@@ -1,6 +1,10 @@
 title: Rust desde cero
 description: Apuntes de Rust para quien ya programa en C/C++ — teoría y práctica, del ownership a una CLI real
 theme: jekyll-theme-cayman
+remote_theme: AmadorProf/jekyll-tema-apuntes
+github_repo: AmadorProf/Rust
+plugins:
+  - jekyll-remote-theme
 defaults:
   - scope:
       path: ""
